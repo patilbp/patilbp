@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Bhagyashri! 👋</h1>
 
--- Seeking full-time opportunities in NLP/AI/ML space starting from June 2023 [E-mail: bhagya22july@gmail.com] --
+--- Seeking Full-time opportunities in NLP/AI/ML space starting from June 2023 [E-mail: bhagya22july@gmail.com] ---
 
 👉 About me - [<a href = "https://patilbp.github.io/">Personal Portfolio</a>]
-
+<br>
 📫 Reach me at [bhagya22july@gmail.com] or [<a href = "https://www.linkedin.com/in/bhagyashripatil/">LinkedIn</a>]
 <br>
 📚 [<a href = "https://patilbp.github.io/resources/">Resources</a>] 👈 A compiled list of reading / resources / learning.<br>
