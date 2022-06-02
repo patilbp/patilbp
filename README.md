@@ -5,6 +5,7 @@
 👉 About me - [<a href = "https://patilbp.github.io/">Personal Portfolio</a>]
 
 📫 Reach me at [bhagya22july@gmail.com] or [<a href = "https://www.linkedin.com/in/bhagyashripatil/">LinkedIn</a>]
+<br>
 📚 [<a href = "https://patilbp.github.io/resources/">Resources</a>] 👈 A compiled list of reading / resources / learning.<br>
 ⚡ Fun fact: Travelling, Cooking and Painting is what you'll not find on my Resume.
 
