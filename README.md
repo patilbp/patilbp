@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm bhagyashri 👋</h1>
+<h1 align="center">Hey, I'm Bhagyashri! 👋</h1>
 
 -- Seeking full-time opportunities in NLP/AI/ML space starting from June 2023 [E-mail: bhagya22july@gmail.com] --
 
