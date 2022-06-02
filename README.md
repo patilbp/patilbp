@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hey, I'm bhagyashri 👋</h1>
 
-<!--
-**patilbp/patilbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-- Seeking full-time opportunities in NLP/AI/ML space starting from June 2023 [E-mail: bhagya22july@gmail.com] --
 
-Here are some ideas to get you started:
+👉 About me - [<a href = "https://patilbp.github.io/">Personal Portfolio</a>]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at [bhagya22july@gmail.com] or [<a href = "https://www.linkedin.com/in/bhagyashripatil/">LinkedIn</a>]
+📚 [<a href = "https://patilbp.github.io/resources/">Resources</a>] 👈 A compiled list of reading / resources / learning.<br>
+⚡ Fun fact: Travelling, Cooking and Painting is what you'll not find on my Resume.
+
+<br>
+
+![Paritosh's github stats](https://github-readme-stats.vercel.app/api?username=patilbp&show_icons=true&count_private=true)
+
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpatilbp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile&edge_flat=false)](https://hits.seeyoufarm.com)
