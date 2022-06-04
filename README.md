@@ -11,7 +11,7 @@
 
 <br>
 
-![Paritosh's github stats](https://github-readme-stats.vercel.app/api?username=patilbp&show_icons=true&count_private=true)
+![Bhagyashri's github stats](https://github-readme-stats.vercel.app/api?username=patilbp&show_icons=true&count_private=true)
 
 <br>
 
